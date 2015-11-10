@@ -1,0 +1,101 @@
+
+body{
+  background-color: #F0F0F0;
+  display: block;
+  min-width: 200px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  position: relative;
+  font-family: 'Roboto';
+}
+h1{
+  margin :0;
+  padding : 15px;
+  padding-left: 20px;
+  font-size: 16px;
+  color: #F0F0F0;
+  font-weight: 100;
+}
+
+h2{
+  font-size: 50px;
+  text-align: center;
+  font-weight: 100;
+  margin: 0px;
+  padding-top: 30px;
+}
+p{
+  margin: 0;
+  padding: 20px;
+}
+
+footer{
+  background-color: #464F6D;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: 100;
+}
+.cabeza{
+  background-color: #464F6D;
+}
+
+.cuadro_blanco{
+  background-color: #FFFFFF;
+  margin-top: 10px;
+  height: 200px;
+}
+
+.trabajo{
+  color: #FFFFFF;
+  text-align: center;
+  margin: 0;
+  background-color: #2EC0C1;
+}
+
+.quien_soy{
+  color: #FFFFFF;
+  background-color: #2EC0C1;
+  padding-bottom: 50px;
+}
+
+.trabajos_seccion{
+  padding: 20px;
+}
+
+.formulario{
+  padding: 20px;
+  display: block;
+  margin: 0 auto;
+}
+.input{
+  margin-top: 10px;
+  width: 100%;
+  border-style: none;
+}
+.boton{
+  margin: 0;
+  padding: 10px;
+  background-color: #464F6D;
+  width: 100%;
+  color: #FFFFFF;
+  border: 0;
+  border-radius:3px;
+}
+
+.celeste{
+  background-color: #00E4FF;
+  height: 50px;
+}
+.oscuro{
+  background-color: #464F6D;
+  height: 50px;
+}
+.rojo{
+  background-color: #D71B5F;
+  height: 50px;
+}
+.contacto{
+  margin: 0;
+  padding: 0;
+}
